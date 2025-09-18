@@ -69,7 +69,7 @@ Feature selection and proper preprocessing had a strong impact on model performa
 
  How to Run
 # Clone repo
-git clone https://github.com/your-username/housing-price-prediction.git  
+git clone https://github.com/Himran13/housing-price-prediction.git  
 
 # Install dependencies
 pip install -r requirements.txt  
